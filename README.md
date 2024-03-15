@@ -14,7 +14,7 @@ All data taken from Reddit user <a href="https://www.reddit.com/r/Palworld/comme
 
 
 ## Demo
-- <a href="https://palworld.henr1k.com/" target="_blank">Check out the demo</a>
+- <a href="https://pal.henr1k.com/" target="_blank">Check out the demo</a>
 
 ## Screenshots
 ### Pal Stats
