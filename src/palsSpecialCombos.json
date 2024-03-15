@@ -1,0 +1,198 @@
+[
+    {
+        "parents": [
+            "Relaxaurus",
+            "Sparkit"
+        ],
+        "offspring": "Relaxaurus Lux"
+    },
+    {
+        "parents": [
+            "Incineram",
+            "Maraith"
+        ],
+        "offspring": "Incineram Noct"
+    },
+    {
+        "parents": [
+            "Mau",
+            "Pengullet"
+        ],
+        "offspring": "Mau Cryst"
+    },
+    {
+        "parents": [
+            "Vanwyrm",
+            "Foxcicle"
+        ],
+        "offspring": "Vanwyrm Cryst"
+    },
+    {
+        "parents": [
+            "Eikthyrdeer",
+            "Hangyu"
+        ],
+        "offspring": "Eikthyrdeer Terra"
+    },
+    {
+        "parents": [
+            "Elphidran",
+            "Surfent"
+        ],
+        "offspring": "Elphidran Aqua"
+    },
+    {
+        "parents": [
+            "Pyrin",
+            "Katress"
+        ],
+        "offspring": "Pyrin Noct"
+    },
+    {
+        "parents": [
+            "Mammorest",
+            "Wumpo"
+        ],
+        "offspring": "Mammorest Cryst"
+    },
+    {
+        "parents": [
+            "Mossanda",
+            "Grizzbolt"
+        ],
+        "offspring": "Mossanda Lux"
+    },
+    {
+        "parents": [
+            "Dinossom",
+            "Rayhound"
+        ],
+        "offspring": "Dinossom Lux"
+    },
+    {
+        "parents": [
+            "Jolthog",
+            "Pengullet"
+        ],
+        "offspring": "Jolthog Cryst"
+    },
+    {
+        "parents": [
+            "Frostallion",
+            "Helzephyr"
+        ],
+        "offspring": "Frostallion Noct"
+    },
+    {
+        "parents": [
+            "Kingpaca",
+            "Reindrix"
+        ],
+        "offspring": "Ice Kingpaca"
+    },
+    {
+        "parents": [
+            "Lyleen",
+            "Menasting"
+        ],
+        "offspring": "Lyleen Noct"
+    },
+    {
+        "parents": [
+            "Leezpunk",
+            "Flambelle"
+        ],
+        "offspring": "Leezpunk Ignis"
+    },
+    {
+        "parents": [
+            "Blazehowl",
+            "Felbat"
+        ],
+        "offspring": "Blazehowl Noct"
+    },
+    {
+        "parents": [
+            "Robinquill",
+            "Fuddler"
+        ],
+        "offspring": "Robinquill Terra"
+    },
+    {
+        "parents": [
+            "Broncherry",
+            "Fuack"
+        ],
+        "offspring": "Broncherry Aqua"
+    },
+    {
+        "parents": [
+            "Surfent",
+            "Dumud"
+        ],
+        "offspring": "Surfent Terra"
+    },
+    {
+        "parents": [
+            "Gobfin",
+            "Rooby"
+        ],
+        "offspring": "Gobfin Ignis"
+    },
+    {
+        "parents": [
+            "Suzaku",
+            "Jormuntide"
+        ],
+        "offspring": "Suzaku Aqua"
+    },
+    {
+        "parents": [
+            "Reptyro",
+            "Foxcicle"
+        ],
+        "offspring": "Ice Reptyro"
+    },
+    {
+        "parents": [
+            "Hangyu",
+            "Swee"
+        ],
+        "offspring": "Hangyu Cryst"
+    },
+    {
+        "parents": [
+            "Mossanda",
+            "Petallia"
+        ],
+        "offspring": "Lyleen"
+    },
+    {
+        "parents": [
+            "Vanwyrm",
+            "Anubis"
+        ],
+        "offspring": "Faleris"
+    },
+    {
+        "parents": [
+            "Mossanda",
+            "Rayhound"
+        ],
+        "offspring": "Grizzbolt"
+    },
+    {
+        "parents": [
+            "Grizzbolt",
+            "Relaxaurus"
+        ],
+        "offspring": "Orserk"
+    },
+    {
+        "parents": [
+            "Kitsun",
+            "Astegon"
+        ],
+        "offspring": "Shadowbeak"
+    }
+]
